@@ -65,32 +65,6 @@ main {
   justify-content:space-evenly;
 }
 
-/* .portfolio{
-  display: flex;
-  flex-wrap: wrap;
-  max-width: 100%;
-  margin: 2%;
-  flex: 1 0 100%;
-  justify-content: center;
-}
-
-#portfolioHero {
-  width: 100%;
-}
-
-.portfolioPic {
-  width: 50%;
-  height: 50%;
-  margin-top: 8px;
-  margin-right: 5px;
-}
-
-figure {
-  border: 1px solid #a53525;
-  padding: 5px;
-  margin: 10px;
-} */
-
 .about {
   border: 3px solid ;
   margin: 3%;
